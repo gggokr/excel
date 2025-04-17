@@ -5,7 +5,7 @@ from io import BytesIO
 from openpyxl import load_workbook
 from openpyxl.styles import Font
 
-st.set_page_config(page_title="실내공기질 데이터 처리 앱", layout="wide")
+st.set_page_config(page_title="실내공기질 데이터 처리", layout="wide")
 
 def to_excel_bytes(df):
     output = BytesIO()
