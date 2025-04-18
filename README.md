@@ -8,14 +8,12 @@ https://writingpjt.tistory.com/11
 
 <Br><Br>
 
-# streamlit을 이용하여 배포용 실내공기질 실적관리 프로그램 만들기
-## 2. 실적보고 Launcher.exe 파일 생성 과정
+# 2. 실내공기질실적정리 streamlit 라이브러리를 활용한 프로그램
 https://chatgpt.com/share/67ffabf3-bf9c-800d-919a-b69f73569306
 
 <Br><Br>
 
 # 구글 코랩에 ipynb 파일 업로드 하는 법
-좋아요! 초보자도 이해할 수 있도록 **ipynb 파일(주피터 노트북 파일)을 구글 코랩(Colab)에 업로드하고 실행하는 방법**을 단계별로 설명해드릴게요. 아래 내용을 문서나 안내자료로도 활용할 수 있습니다.
 
 ### ✅ 구글 코랩에서 ipynb 파일 실행하는 방법 (초보자용)
 
