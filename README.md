@@ -1,6 +1,9 @@
 # 다음의 링크로 들어가 질문하세요.
 https://hackmd.io/@ioi/ryXPNhnCye/edit
 
+# 강의와 관련된 자료는 다음의 링크에서도 확인할 수 있습니다.
+https://hackmd.io/@ioi/ryeAoG11ex
+
 <Br><Br>
 
 # 엑셀VBA 사용하기 위한 개발도구 추가하기
